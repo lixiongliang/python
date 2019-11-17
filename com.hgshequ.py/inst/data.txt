@@ -1,0 +1,6 @@
+name  datatype dataDesc notNull
+name  s         姓名      n
+sex   s         性别      n
+age   i         年龄     n
+amount  b          金额      n
+

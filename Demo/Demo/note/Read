@@ -1,0 +1,7 @@
+创建项目 ：scrapy startproject Demo
+
+
+
+创建 spider,首先进入Demo文件夹
+
+scrapy genspider demo 'www.itcast.cn'
